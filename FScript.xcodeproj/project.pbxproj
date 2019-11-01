@@ -1590,7 +1590,6 @@
 		BA223505189FA412002C5B6A /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223102189F9A99002C5B6A /* Quartz.framework */; };
 		BA223506189FA412002C5B6A /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223103189F9A99002C5B6A /* QuartzCore.framework */; };
 		BA223507189FA412002C5B6A /* QuickLook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223104189F9A99002C5B6A /* QuickLook.framework */; };
-		BA223508189FA412002C5B6A /* Ruby.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223106189F9A9A002C5B6A /* Ruby.framework */; };
 		BA22350A189FA412002C5B6A /* ScreenSaver.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223108189F9A9A002C5B6A /* ScreenSaver.framework */; };
 		BA22350B189FA412002C5B6A /* ScriptingBridge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA22310A189F9A9A002C5B6A /* ScriptingBridge.framework */; };
 		BA22350C189FA412002C5B6A /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA22310B189F9A9A002C5B6A /* Security.framework */; };
@@ -2824,7 +2823,6 @@
 		EDC2CAB31A1AA50D00942777 /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223102189F9A99002C5B6A /* Quartz.framework */; };
 		EDC2CAB41A1AA50D00942777 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223103189F9A99002C5B6A /* QuartzCore.framework */; };
 		EDC2CAB51A1AA50D00942777 /* QuickLook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223104189F9A99002C5B6A /* QuickLook.framework */; };
-		EDC2CAB61A1AA50D00942777 /* Ruby.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223106189F9A9A002C5B6A /* Ruby.framework */; };
 		EDC2CAB71A1AA50D00942777 /* ScreenSaver.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA223108189F9A9A002C5B6A /* ScreenSaver.framework */; };
 		EDC2CAB81A1AA50D00942777 /* ScriptingBridge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA22310A189F9A9A002C5B6A /* ScriptingBridge.framework */; };
 		EDC2CAB91A1AA50D00942777 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA22310B189F9A9A002C5B6A /* Security.framework */; };
@@ -3577,7 +3575,6 @@
 		BA223103189F9A99002C5B6A /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		BA223104189F9A99002C5B6A /* QuickLook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickLook.framework; path = System/Library/Frameworks/QuickLook.framework; sourceTree = SDKROOT; };
 		BA223105189F9A99002C5B6A /* QuickTime.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickTime.framework; path = System/Library/Frameworks/QuickTime.framework; sourceTree = SDKROOT; };
-		BA223106189F9A9A002C5B6A /* Ruby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Ruby.framework; path = System/Library/Frameworks/Ruby.framework; sourceTree = SDKROOT; };
 		BA223108189F9A9A002C5B6A /* ScreenSaver.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScreenSaver.framework; path = System/Library/Frameworks/ScreenSaver.framework; sourceTree = SDKROOT; };
 		BA223109189F9A9A002C5B6A /* Scripting.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Scripting.framework; path = System/Library/Frameworks/Scripting.framework; sourceTree = SDKROOT; };
 		BA22310A189F9A9A002C5B6A /* ScriptingBridge.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScriptingBridge.framework; path = System/Library/Frameworks/ScriptingBridge.framework; sourceTree = SDKROOT; };
@@ -3625,7 +3622,7 @@
 		BA223173189F9AD3002C5B6A /* GameController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameController.framework; path = System/Library/Frameworks/GameController.framework; sourceTree = SDKROOT; };
 		BA223360189FA403002C5B6A /* F-Script.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "F-Script.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA223520189FA412002C5B6A /* F-Script.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "F-Script.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA223668189FA429002C5B6A /* FScriptFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FScriptFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA223668189FA429002C5B6A /* FScript.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FScript.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA2237B0189FA432002C5B6A /* FScript.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FScript.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DBA31C161CA57C0035A675 /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
 		E2DBA31F161CA5D00035A675 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
@@ -4025,7 +4022,6 @@
 				BA223505189FA412002C5B6A /* Quartz.framework in Frameworks */,
 				BA223506189FA412002C5B6A /* QuartzCore.framework in Frameworks */,
 				BA223507189FA412002C5B6A /* QuickLook.framework in Frameworks */,
-				BA223508189FA412002C5B6A /* Ruby.framework in Frameworks */,
 				BA22350A189FA412002C5B6A /* ScreenSaver.framework in Frameworks */,
 				BA22350B189FA412002C5B6A /* ScriptingBridge.framework in Frameworks */,
 				BA22350C189FA412002C5B6A /* Security.framework in Frameworks */,
@@ -4147,7 +4143,6 @@
 				EDC2CAB31A1AA50D00942777 /* Quartz.framework in Frameworks */,
 				EDC2CAB41A1AA50D00942777 /* QuartzCore.framework in Frameworks */,
 				EDC2CAB51A1AA50D00942777 /* QuickLook.framework in Frameworks */,
-				EDC2CAB61A1AA50D00942777 /* Ruby.framework in Frameworks */,
 				EDC2CAB71A1AA50D00942777 /* ScreenSaver.framework in Frameworks */,
 				EDC2CAB81A1AA50D00942777 /* ScriptingBridge.framework in Frameworks */,
 				EDC2CAB91A1AA50D00942777 /* Security.framework in Frameworks */,
@@ -4204,7 +4199,7 @@
 				8FD37BA108472E0F00524B98 /* FSTest1.app */,
 				BA223360189FA403002C5B6A /* F-Script.app */,
 				BA223520189FA412002C5B6A /* F-Script.app */,
-				BA223668189FA429002C5B6A /* FScriptFramework.framework */,
+				BA223668189FA429002C5B6A /* FScript.framework */,
 				BA2237B0189FA432002C5B6A /* FScript.framework */,
 				EDC2CACD1A1AA50D00942777 /* F-Script.app */,
 				EDC2CC271A1AA52500942777 /* FScript.framework */,
@@ -4658,7 +4653,6 @@
 				8F1873160B99C7AA003974F2 /* QuartzCore.framework */,
 				BA223104189F9A99002C5B6A /* QuickLook.framework */,
 				BA223105189F9A99002C5B6A /* QuickTime.framework */,
-				BA223106189F9A9A002C5B6A /* Ruby.framework */,
 				E2DBA327161CA65A0035A675 /* SceneKit.framework */,
 				BA223108189F9A9A002C5B6A /* ScreenSaver.framework */,
 				8FA095F80CE38F27001AC147 /* ScreenSaver.framework */,
@@ -6319,7 +6313,7 @@
 			name = "FScriptFramework 10.8";
 			productInstallPath = "";
 			productName = FScript;
-			productReference = BA223668189FA429002C5B6A /* FScriptFramework.framework */;
+			productReference = BA223668189FA429002C5B6A /* FScript.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		BA22366A189FA431002C5B6A /* FScriptFramework 10.9 */ = {
@@ -6387,7 +6381,7 @@
 		0CD4E2FA00D7DD4D7BE9C1BD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1010;
+				LastUpgradeCheck = 1110;
 			};
 			buildConfigurationList = 8F2881FC08F9C040005B3C5A /* Build configuration list for PBXProject "FScript" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -8506,7 +8500,7 @@
 				OTHER_LIBTOOL_FLAGS = "$(value) ";
 				OTHER_REZFLAGS = "";
 				PRINCIPAL_CLASS = "";
-				PRODUCT_NAME = FScriptFramework;
+				PRODUCT_NAME = FScript;
 				SECTORDER_FLAGS = "";
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = framework;
@@ -8541,7 +8535,7 @@
 				OTHER_LIBTOOL_FLAGS = "$(value) ";
 				OTHER_REZFLAGS = "";
 				PRINCIPAL_CLASS = "";
-				PRODUCT_NAME = FScriptFramework;
+				PRODUCT_NAME = FScript;
 				SECTORDER_FLAGS = "";
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = framework;
@@ -8640,7 +8634,7 @@
 				GCC_WARN_FOUR_CHARACTER_CONSTANTS = NO;
 				GCC_WARN_UNKNOWN_PRAGMAS = NO;
 				HEADER_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "F-Script 10.9 copy-Info.plist";
+				INFOPLIST_FILE = "F-Script 10.10-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "-lffi";
@@ -8684,7 +8678,7 @@
 				GCC_WARN_UNKNOWN_PRAGMAS = NO;
 				GCC_WARN_UNUSED_PARAMETER = YES;
 				HEADER_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "F-Script 10.9 copy-Info.plist";
+				INFOPLIST_FILE = "F-Script 10.10-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "-lffi";
@@ -8717,7 +8711,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_WARN_FOUR_CHARACTER_CONSTANTS = NO;
 				GCC_WARN_UNKNOWN_PRAGMAS = NO;
-				INFOPLIST_FILE = "FScriptFramework 10.9 copy-Info.plist";
+				INFOPLIST_FILE = "FScriptFramework 10.10-Info.plist";
 				INSTALL_PATH = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "";
@@ -8753,7 +8747,7 @@
 				GCC_OPTIMIZATION_LEVEL = 3;
 				GCC_WARN_FOUR_CHARACTER_CONSTANTS = NO;
 				GCC_WARN_UNKNOWN_PRAGMAS = NO;
-				INFOPLIST_FILE = "FScriptFramework 10.9 copy-Info.plist";
+				INFOPLIST_FILE = "FScriptFramework 10.10-Info.plist";
 				INSTALL_PATH = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "";
